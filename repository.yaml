@@ -1,0 +1,12 @@
+name: errai-cdi
+author: Mike Brock <cbrock@redhat.com>
+description: Project generation plugin for JBoss Errai + CDI projects
+artifact: org.jboss.errai.forge:forge-errai:1.0-SNAPSHOT
+homerepo: https://repository.jboss.org/nexus/content/repositories/snapshots/
+---
+name: jboss-arquillian
+author: Paul Bakker <paul.bakker.nl@gmail.com>
+description: Integration Testing Framework
+artifact: org.arquillian.forge:arquillian-plugin:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-arquillian.git
+---
