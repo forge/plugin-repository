@@ -10,3 +10,38 @@ description: Integration Testing Framework
 artifact: org.arquillian.forge:arquillian-plugin:1.0.0-SNAPSHOT
 gitrepo: git://github.com/forge/plugin-arquillian.git
 ---
+name: seam-jms
+author: John Ament
+website: http://seamframework.org/Seam3/JMSModule
+description: Seam JMS Plugin
+artifact: org.jboss.seam.jms:seam-jms-forge-plugin:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-seam-jms.git
+---
+name: seam-persistence
+author: Paul Bakker <paul.bakker.nl@gmail.com>
+website: https://github.com/forge/plugin-seam-persistence
+description: Seam Persistence Plugin - Easy JPA integration, Seam-managed transactions, transactional annotations
+artifact: org.jboss.seam.persistence:plugin-seam-persistence:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-seam-persistence.git
+---
+name: hibernate-tools
+author: Max Andersen
+website: https://github.com/forge/plugin-hibernate-tools
+description: Database reverse engineering utilities
+artifact: org.jboss.hibernate.forge:hibernate-tools-plugin:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-hibernate-tools.git
+---
+name: richfaces
+author: Brian Leathem <bleathem@gmail.com>
+website: http://www.jboss.org/richfaces/
+description: RichFaces Plugin - Streamlines installation of the JBoss RichFaces component library for JSF
+artifact: org.jboss.seam.persistence:plugin-seam-persistence:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-seam-persistence.git
+---
+name: prettyfaces
+author: Lincoln Baxter, III <lincoln@ocpsoft.com>
+website: http://ocpsoft.com/prettyfaces/
+description: PrettyFaces Plugin - Streamlines installation of the OCPSoft PrettyFaces URL-rewriting library for Servlet, Java EE, and JSF. Also provides streamlined commands for generating configuration and URL-mappings.
+artifact: com.ocpsoft.forge:prettyfaces-plugin:1.0.0.Alpha4
+gitrepo: git://github.com/ocpsoft/prettyfaces-forge-plugin.git
+---
