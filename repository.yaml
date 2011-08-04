@@ -1,11 +1,3 @@
-name: errai-cdi
-author: Mike Brock <cbrock@redhat.com>
-website: http://www.jboss.org/errai
-description: Project generation plugin for JBoss Errai + CDI projects
-artifact: org.jboss.errai.forge:forge-errai:1.0-SNAPSHOT
-homerepo: https://repository.jboss.org/nexus/content/repositories/snapshots/
-tags: errai, cdi, gwt, javascript, jboss
----
 name: jboss-arquillian
 author: Paul Bakker <paul.bakker.nl@gmail.com>
 website: http://www.jboss.org/arquillian
