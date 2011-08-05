@@ -56,7 +56,7 @@ tags: reports, seam, jasper, pentaho, xdocreport, jboss
 ---
 name: seam-jcr
 author: George Gastaldi <gegastaldi@gmail.com>
-website: https://github.com/forge/plugin-seam-reports
+website: https://github.com/forge/plugin-seam-jcr
 description: Seam JCR Plugin - Seam JCR is a portable extension for CDI to a JCR (Java Content Repository) 2.0 compliant implementation (JSR-283).
 artifact: org.jboss.seam.jcr:plugin-seam-jcr:1.0.0-SNAPSHOT
 gitrepo: git://github.com/forge/plugin-seam-jcr.git
