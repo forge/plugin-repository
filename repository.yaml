@@ -46,3 +46,11 @@ artifact: com.ocpsoft.forge:prettyfaces-plugin:1.0.0.Alpha4
 gitrepo: git://github.com/ocpsoft/prettyfaces-forge-plugin.git
 tags: url-rewrite, urlrewrite, prettyfaces, servlet, javaee, java ee, jsf, jsf2, ocpsoft
 ---
+name: seam-reports
+author: George Gastaldi <gegastaldi@gmail.com>
+website: https://github.com/forge/plugin-seam-reports
+description: Seam Reports Plugin - Reporting engine CDI integration
+artifact: org.jboss.seam.reports:plugin-seam-reports:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-seam-reports.git
+tags: reports, seam, jasper, pentaho, xdocreport, jboss
+---
