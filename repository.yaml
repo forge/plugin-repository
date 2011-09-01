@@ -46,3 +46,11 @@ artifact: com.ocpsoft.forge:prettyfaces-plugin:1.0.0.Alpha4
 gitrepo: git://github.com/ocpsoft/prettyfaces-forge-plugin.git
 tags: url-rewrite, urlrewrite, prettyfaces, servlet, javaee, java ee, jsf, jsf2, ocpsoft
 ---
+name: jrebel
+author: Thomas Hug <thomas.hug@ctp-consulting.com>
+website: http://www.zeroturnaround.com/
+description: JRebel Plugin - JRebel integration into build and container (via the Cargo Maven plugin)
+artifact: org.jboss.forge.jrebel:forge-jrebel-plugin:1.0.0.Beta1
+gitrepo: git://github.com/ctpconsulting/forge-jrebel-plugin.git
+tags: productivity, deployment, jboss6, jboss7
+---
