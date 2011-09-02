@@ -54,3 +54,19 @@ artifact: org.jboss.forge.jrebel:forge-jrebel-plugin:1.0.0.Beta1
 gitrepo: git://github.com/ctpconsulting/forge-jrebel-plugin.git
 tags: productivity, deployment, jboss6, jboss7
 ---
+name: seam-reports
+author: George Gastaldi <gegastaldi@gmail.com>
+website: https://github.com/forge/plugin-seam-reports
+description: Seam Reports Plugin - Reporting engine CDI integration
+artifact: org.jboss.seam.reports:plugin-seam-reports:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-seam-reports.git
+tags: reports, seam, jasper, pentaho, xdocreport, jboss
+---
+name: seam-jcr
+author: George Gastaldi <gegastaldi@gmail.com>
+website: https://github.com/forge/plugin-seam-jcr
+description: Seam JCR Plugin - Seam JCR is a portable extension for CDI to a JCR (Java Content Repository) 2.0 compliant implementation (JSR-283).
+artifact: org.jboss.seam.jcr:plugin-seam-jcr:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-seam-jcr.git
+tags: jcr, seam, modeshape, jackrabbit
+---
