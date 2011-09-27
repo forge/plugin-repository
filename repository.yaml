@@ -78,3 +78,9 @@ artifact: org.jboss.seam.jcr:plugin-seam-jcr:1.0.0-SNAPSHOT
 gitrepo: git://github.com/forge/plugin-seam-jcr.git
 tags: jcr, seam, modeshape, jackrabbit
 ---
+name: osgi
+author: Paul Bakker <paul.bakker.nl@gmail.com>
+website: https://github.com/forge/plugin-osgi
+description: Plugin to simplify Maven Bundle plugin usage
+gitrepo: git://github.com/forge/plugin-osgi.git
+tags: osgi
