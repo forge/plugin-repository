@@ -22,6 +22,14 @@ artifact: org.jboss.seam.persistence:plugin-seam-persistence:1.0.0-SNAPSHOT
 gitrepo: git://github.com/forge/plugin-seam-persistence.git
 tags: persistence, jpa, hibernate, openjpa, eclipselink, toplink, seam, database, orm, jboss
 ---
+name: openshift-flex
+author: Krishna Raman <kraman@redhat.com>
+website: http://openshift.com
+description: Plugins for creating cloud instances, managing existing clouds, and deploying applications to the Red Hat cloud.
+artifact: org.redhat.openshift.plugin-openshift:1.0.0-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-openshift
+tags: cloud, openshift, redhat, jboss, deploy, rhc
+---
 name: hibernate-tools
 author: Max Andersen
 website: https://github.com/forge/plugin-hibernate-tools
