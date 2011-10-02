@@ -54,6 +54,14 @@ artifact: org.jboss.seam.persistence:plugin-seam-persistence:1.0.0-SNAPSHOT
 gitrepo: git://github.com/forge/plugin-richfaces.git
 tags: jsf, jsf2, richfaces, component library, jboss
 ---
+name: rewrite
+author: Lincoln Baxter, III <lincoln@ocpsoft.com>
+website: http://ocpsoft.com/rewrite/
+description: Rewrite Plugin - Streamlines installation of the OCPSoft Rewrite URL-rewriting library for Servlet, Java EE, and Web Frameworks. Also provides streamlined commands for generating configuration providers.
+artifact: com.ocpsoft.rewrite.forge:plugin-rewrite:1.0.0-SNAPSHOT
+gitrepo: git://github.com/ocpsoft/rewrite-forge-plugin.git
+tags: url-rewrite, urlrewrite, prettyfaces, servlet, javaee, java ee, jsf, jsf2, ocpsoft
+---
 name: prettyfaces
 author: Lincoln Baxter, III <lincoln@ocpsoft.com>
 website: http://ocpsoft.com/prettyfaces/
