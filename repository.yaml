@@ -1,4 +1,4 @@
-name: jboss-arquillian
+name: arquillian
 author: Paul Bakker <paul.bakker.nl@gmail.com>
 website: http://www.jboss.org/arquillian
 description: Integration Testing Framework
