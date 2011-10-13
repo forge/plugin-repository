@@ -6,6 +6,14 @@ artifact: org.arquillian.forge:arquillian-plugin:1.0.0-SNAPSHOT
 gitrepo: git://github.com/forge/plugin-arquillian.git
 tags: arquillian, jboss, testing, junit, testng, integration testing, tests, CDI, java ee
 ---
+name: seam-catch
+author: Jason Porter
+website: http://seamframework.org/Seam3/CatchModule
+description: Seam Catch Plugin
+artifact: org.jboss.seam.catch:plugin-seam-catch:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-seam-catch.git
+tags: seam, catch, solder, jboss
+---
 name: seam-jms
 author: John Ament
 website: http://seamframework.org/Seam3/JMSModule
