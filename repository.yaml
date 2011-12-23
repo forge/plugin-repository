@@ -108,3 +108,10 @@ website: https://github.com/forge/plugin-osgi
 description: Plugin to simplify Maven Bundle plugin usage
 gitrepo: git://github.com/forge/plugin-osgi.git
 tags: osgi
+---
+name: primefaces
+author: Rudy De Busscher <rdebusscher@gmail.com>
+website: http://jsfcorner.blogspot.com/2011/12/primefaces-plugin-for-jboss-forge.html
+description: PrimeFaces Plugin - Streamlines installation of the PrimeFaces component library for JSF
+gitrepo: git://github.com/rdebusscher/forge-plugin-primefaces.git
+tags: primefaces, jsf2, component library, java ee
