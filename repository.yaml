@@ -112,6 +112,13 @@ tags: osgi
 name: primefaces
 author: Rudy De Busscher <rdebusscher@gmail.com>
 website: http://jsfcorner.blogspot.com/2011/12/primefaces-plugin-for-jboss-forge.html
-description: PrimeFaces Plugin - Streamlines installation of the PrimeFaces component library for JSF
+description: Streamlines installation of the PrimeFaces component library for JSF
 gitrepo: git://github.com/rdebusscher/forge-plugin-primefaces.git
 tags: primefaces, jsf2, component library, java ee
+---
+name: navigation
+author: Pablo Palazon <pablo.palazon@gmail.com>
+website: https://github.com/forge/plugin-navigation
+description: Quick project navigation with resources bookmarks
+gitrepo: git://github.com/forge/plugin-navigation.git
+tags: navigation, bookmark, mark, go, resource, project, global
