@@ -122,3 +122,10 @@ website: https://github.com/forge/plugin-navigation
 description: Quick project navigation with resources bookmarks
 gitrepo: git://github.com/forge/plugin-navigation.git
 tags: navigation, bookmark, mark, go, resource, project, global
+---
+name: jboss-as-7
+author: Lincoln Baxter, III <lincolnbaxter@gmail.com>
+website: https://github.com/forge/plugin-jboss-as
+description: JBoss AS7 Deployment / Management
+gitrepo: git://github.com/forge/plugin-jboss-as.git
+tags: jboss, as7, deployment, server, java ee, tomcat
