@@ -3,7 +3,7 @@ author: Paul Bakker <paul.bakker.nl@gmail.com>
 website: http://www.jboss.org/arquillian
 description: Integration Testing Framework
 artifact: org.arquillian.forge:arquillian-plugin:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-arquillian.git
+gitrepo: https://github.com/forge/plugin-arquillian.git
 tags: arquillian, jboss, testing, junit, testng, integration testing, tests, CDI, java ee
 ---
 name: seam-catch
@@ -11,7 +11,7 @@ author: Jason Porter
 website: http://seamframework.org/Seam3/CatchModule
 description: Seam Catch Plugin
 artifact: org.jboss.seam.catch:plugin-seam-catch:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-seam-catch.git
+gitrepo: https://github.com/forge/plugin-seam-catch.git
 tags: seam, catch, solder, jboss
 ---
 name: seam-jms
@@ -19,7 +19,7 @@ author: John Ament
 website: http://seamframework.org/Seam3/JMSModule
 description: Seam JMS Plugin
 artifact: org.jboss.seam.jms:seam-jms-forge-plugin:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-seam-jms.git
+gitrepo: https://github.com/forge/plugin-seam-jms.git
 tags: seam, jms, mq, messaging, jboss
 ---
 name: seam-persistence
@@ -27,7 +27,7 @@ author: Paul Bakker <paul.bakker.nl@gmail.com>
 website: https://github.com/forge/plugin-seam-persistence
 description: Seam Persistence Plugin - Easy JPA integration, Seam-managed transactions, transactional annotations
 artifact: org.jboss.seam.persistence:plugin-seam-persistence:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-seam-persistence.git
+gitrepo: https://github.com/forge/plugin-seam-persistence.git
 tags: persistence, jpa, hibernate, openjpa, eclipselink, toplink, seam, database, orm, jboss
 ---
 name: openshift-flex
@@ -35,7 +35,7 @@ author: Krishna Raman <kraman@redhat.com>
 website: http://openshift.com
 description: Plugins for creating cloud instances, managing existing clouds, and deploying applications to the Red Hat cloud.
 artifact: org.redhat.openshift.plugin-openshift:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-openshift.git
+gitrepo: https://github.com/forge/plugin-openshift.git
 tags: cloud, openshift, redhat, jboss, deploy, rhc
 ---
 name: openshift-express
@@ -43,7 +43,7 @@ author: Pete Muir <pmuir@redhat.com>
 website: http://openshift.com
 description: Plugins for creating cloud instances, managing existing clouds, and deploying applications to the Red Hat express cloud.
 artifact: com.redhat.openshift.express:openshift-express-plugin:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-openshift-express.git
+gitrepo: https://github.com/forge/plugin-openshift-express.git
 tags: cloud, openshift, redhat, jboss, deploy, rhc, express
 ---
 name: hibernate-tools
@@ -51,7 +51,7 @@ author: Max Andersen
 website: https://github.com/forge/plugin-hibernate-tools
 description: Database reverse engineering utilities
 artifact: org.jboss.hibernate.forge:hibernate-tools-plugin:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-hibernate-tools.git
+gitrepo: https://github.com/forge/plugin-hibernate-tools.git
 tags: database, orm, hibernate, jpa, jboss
 ---
 name: richfaces
@@ -59,7 +59,7 @@ author: Brian Leathem <bleathem@gmail.com>
 website: http://www.jboss.org/richfaces/
 description: RichFaces Plugin - Streamlines installation of the JBoss RichFaces component library for JSF
 artifact: org.jboss.seam.persistence:plugin-seam-persistence:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-richfaces.git
+gitrepo: https://github.com/forge/plugin-richfaces.git
 tags: jsf, jsf2, richfaces, component library, jboss
 ---
 name: ocpsoft-rewrite
@@ -67,7 +67,7 @@ author: Lincoln Baxter, III <lincoln@ocpsoft.com>
 website: http://ocpsoft.com/rewrite/
 description: Rewrite Plugin - Streamlines installation of the OCPSoft Rewrite URL-rewriting library for Servlet, Java EE, and Web Frameworks. Also provides streamlined commands for generating configuration providers.
 artifact: com.ocpsoft.rewrite.forge:plugin-rewrite:1.0.0-SNAPSHOT
-gitrepo: git://github.com/ocpsoft/rewrite-forge-plugin.git
+gitrepo: https://github.com/ocpsoft/rewrite-forge-plugin.git
 tags: url-rewrite, urlrewrite, prettyfaces, servlet, javaee, java ee, jsf, jsf2, ocpsoft
 ---
 name: ocpsoft-prettyfaces
@@ -75,7 +75,7 @@ author: Lincoln Baxter, III <lincoln@ocpsoft.com>
 website: http://ocpsoft.com/prettyfaces/
 description: PrettyFaces Plugin - Streamlines installation of the OCPSoft PrettyFaces URL-rewriting library for Servlet, Java EE, and JSF. Also provides streamlined commands for generating configuration and URL-mappings.
 artifact: com.ocpsoft.forge:prettyfaces-plugin:1.0.0.Alpha4
-gitrepo: git://github.com/ocpsoft/prettyfaces-forge-plugin.git
+gitrepo: https://github.com/ocpsoft/prettyfaces-forge-plugin.git
 tags: url-rewrite, urlrewrite, prettyfaces, servlet, javaee, java ee, jsf, jsf2, ocpsoft
 ---
 name: jrebel
@@ -83,7 +83,7 @@ author: Thomas Hug <thomas.hug@ctp-consulting.com>
 website: http://www.zeroturnaround.com/
 description: JRebel Plugin - JRebel integration into build and container (via the Cargo Maven plugin)
 artifact: org.jboss.forge.jrebel:forge-jrebel-plugin:1.0.0.Beta1
-gitrepo: git://github.com/ctpconsulting/forge-jrebel-plugin.git
+gitrepo: https://github.com/ctpconsulting/forge-jrebel-plugin.git
 tags: productivity, deployment, jboss6, jboss7
 ---
 name: seam-reports
@@ -91,7 +91,7 @@ author: George Gastaldi <gegastaldi@gmail.com>
 website: https://github.com/forge/plugin-seam-reports
 description: Seam Reports Plugin - Reporting engine CDI integration
 artifact: org.jboss.seam.reports:plugin-seam-reports:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-seam-reports.git
+gitrepo: https://github.com/forge/plugin-seam-reports.git
 tags: reports, seam, jasper, pentaho, xdocreport, jboss
 ---
 name: seam-jcr
@@ -99,33 +99,33 @@ author: George Gastaldi <gegastaldi@gmail.com>
 website: https://github.com/forge/plugin-seam-jcr
 description: Seam JCR Plugin - Seam JCR is a portable extension for CDI to a JCR (Java Content Repository) 2.0 compliant implementation (JSR-283).
 artifact: org.jboss.seam.jcr:plugin-seam-jcr:1.0.0-SNAPSHOT
-gitrepo: git://github.com/forge/plugin-seam-jcr.git
+gitrepo: https://github.com/forge/plugin-seam-jcr.git
 tags: jcr, seam, modeshape, jackrabbit
 ---
 name: osgi
 author: Paul Bakker <paul.bakker.nl@gmail.com>
 website: https://github.com/forge/plugin-osgi
 description: Plugin to simplify Maven Bundle plugin usage
-gitrepo: git://github.com/forge/plugin-osgi.git
+gitrepo: https://github.com/forge/plugin-osgi.git
 tags: osgi
 ---
 name: primefaces
 author: Rudy De Busscher <rdebusscher@gmail.com>
 website: http://jsfcorner.blogspot.com/2011/12/primefaces-plugin-for-jboss-forge.html
 description: Streamlines installation of the PrimeFaces component library for JSF
-gitrepo: git://github.com/rdebusscher/forge-plugin-primefaces.git
+gitrepo: https://github.com/rdebusscher/forge-plugin-primefaces.git
 tags: primefaces, jsf2, component library, java ee
 ---
 name: navigation
 author: Pablo Palazon <pablo.palazon@gmail.com>
 website: https://github.com/forge/plugin-navigation
 description: Quick project navigation with resources bookmarks
-gitrepo: git://github.com/forge/plugin-navigation.git
+gitrepo: https://github.com/forge/plugin-navigation.git
 tags: navigation, bookmark, mark, go, resource, project, global
 ---
 name: jboss-as-7
 author: Lincoln Baxter, III <lincolnbaxter@gmail.com>
 website: https://github.com/forge/plugin-jboss-as
 description: JBoss AS7 Deployment / Management
-gitrepo: git://github.com/forge/plugin-jboss-as.git
+gitrepo: https://github.com/forge/plugin-jboss-as.git
 tags: jboss, as7, deployment, server, java ee, tomcat
