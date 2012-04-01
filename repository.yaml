@@ -129,3 +129,10 @@ website: https://github.com/forge/plugin-jboss-as
 description: JBoss AS7 Deployment / Management
 gitrepo: https://github.com/forge/plugin-jboss-as.git
 tags: jboss, as7, deployment, server, java ee, tomcat
+---
+name: gwt
+author: Sandro Sonntag <sso@adorsys.de>
+website: https://github.com/xandrox/forge-gwtplugin
+description: GWT Project Setup, mvp generation and devmode run or debugging
+gitrepo: https://github.com/xandrox/forge-gwtplugin.git
+tags: gwt, webapp, web
