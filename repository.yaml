@@ -134,5 +134,6 @@ name: gwt
 author: Sandro Sonntag <sso@adorsys.de>
 website: https://github.com/xandrox/forge-gwtplugin
 description: Generate full-stack GWT Project (RESTful Services with JAX-RS, Dependeny-Injection with GIN, Bean-Validation, Event-Bus), MVP generation, event wiring, model based UI-Generator and DEV-Mode running
+artifact: de.adorsys.forge.gwt:forge-gwt:1.0.0-SNAPSHOT
 gitrepo: https://github.com/xandrox/forge-gwtplugin.git
 tags: gwt, webapp, web
