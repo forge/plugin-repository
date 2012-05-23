@@ -137,3 +137,10 @@ description: Generate full-stack GWT Project (RESTful Services with JAX-RS, Depe
 artifact: de.adorsys.forge.gwt:forge-gwt:1.0.0-SNAPSHOT
 gitrepo: https://github.com/xandrox/forge-gwtplugin.git
 tags: gwt, webapp, web
+---
+name: rxlist
+author: Pablo Palazon <pablo.palazon@gmail.com>
+website: https://github.com/ppalazon/rxlist-forge
+description: Collect key properties list from source code with regular expressions
+gitrepo: https://github.com/ppalazon/rxlist-forge.git
+tags: properties, regular expression, collect, properties list, I18N, international
