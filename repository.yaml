@@ -144,3 +144,11 @@ website: https://github.com/ppalazon/rxlist-forge
 description: Collect key properties list from source code with regular expressions
 gitrepo: https://github.com/ppalazon/rxlist-forge.git
 tags: properties, regular expression, collect, properties list, I18N, international
+---
+name: slf4j
+author: Sandro Sonntag <sso@adorsys.de>
+website: https://github.com/xandrox/forge-slf4jplugin
+description: This plugin adds slf4j dependencies to your project and generates a initial logging configuration
+artifact: de.adorsys.forge.plugin:forge-slf4jplugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/xandrox/forge-slf4jplugin.git
+tags: slf4j, logging, log4j, log
