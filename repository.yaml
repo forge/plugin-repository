@@ -144,3 +144,11 @@ description: Plugins for creating cloud instances, managing existing clouds, and
 artifact: com.redhat.openshift:openshift-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-openshift.git
 tags: cloud, openshift, redhat, jboss, deploy, rhc
+---
+name: jdf
+author: Rafael Benevides <benevides@redhat.com>
+website: http://www.jboss.org/jdf
+description: Plugin to deal with JDF - JBoss Developer Framework BOMs
+artifact: org.jboss.jdf:jdf-plugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/jboss-jdf/plugin-jdf.git
+tags: jboss, redhat, jdf, bom
