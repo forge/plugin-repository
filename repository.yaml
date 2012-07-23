@@ -152,3 +152,11 @@ description: Plugin to deal with JDF - JBoss Developer Framework BOMs
 artifact: org.jboss.jdf:jdf-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/jboss-jdf/plugin-jdf.git
 tags: jboss, redhat, jdf, bom
+---
+name: formatter
+author: Thomas Hug <thomas.hug@ctp-consulting.com>
+website: https://github.com/thomashug/forge-formatter-plugin
+description: Formats Java code based on predefined settings or an Eclipse formatter XML.
+artifact: org.jboss.forge.formatter:forge-formatter-plugin:1.0.0.Alpha1-SNAPSHOT
+gitrepo: https://github.com/thomashug/forge-formatter-plugin.git
+tags: format, java, eclipse
