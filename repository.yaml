@@ -160,3 +160,11 @@ description: Formats Java code based on predefined settings or an Eclipse format
 artifact: org.jboss.forge.formatter:forge-formatter-plugin:1.0.0.Alpha1-SNAPSHOT
 gitrepo: https://github.com/thomashug/forge-formatter-plugin.git
 tags: format, java, eclipse
+---
+name: spring
+author: Ryan Bradley <ryan.k.bradley@gmail.com>
+website: https://github.com/forge/plugin-spring-mvc
+description: Plugin to create/configure Spring MVC web applications.  This contains both a ScaffoldProvider implementation, to work with the existing ScaffoldPlugin, as well as a SpringPlugin to modify existing projects.
+artifact: org.jboss.spring:forge-spring-mvc-plugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-spring-mvc.git
+tags: spring, mvc, scaffold, jboss, redhat, webapp
