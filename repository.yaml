@@ -152,3 +152,11 @@ description: Plugin to deal with JDF - JBoss Developer Framework BOMs
 artifact: org.jboss.jdf:jdf-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/jboss-jdf/plugin-jdf.git
 tags: jboss, redhat, jdf, bom
+---
+name: spring
+author: Ryan Bradley <ryan.k.bradley@gmail.com>
+website: https://github.com/forge/plugin-spring-mvc
+description: Plugin to create/configure Spring MVC web applications.  This contains both a ScaffoldProvider implementation, to work with the existing ScaffoldPlugin, as well as a SpringPlugin to modify existing projects.
+artifact: org.jboss.spring:forge-spring-mvc-plugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-spring-mvc.git
+tags: spring, mvc, scaffold, jboss, redhat, webapp
