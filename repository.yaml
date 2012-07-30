@@ -168,3 +168,12 @@ description: Plugin to create/configure Spring MVC web applications.  This conta
 artifact: org.jboss.spring:forge-spring-mvc-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-spring-mvc.git
 tags: spring, mvc, scaffold, jboss, redhat, webapp
+---
+name: switchyard
+author: Keith Babo <kbabo@redhat.com>
+website: http://www.jboss.org/switchyard
+description: Plugin to create/configure SwitchYard applications.
+artifact: org.switchyard.forge:switchyard-forge-plugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-switchyard.git
+tags: esb, jboss, redhat, switchyard
+
