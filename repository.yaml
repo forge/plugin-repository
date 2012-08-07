@@ -176,4 +176,12 @@ description: Plugin to create/configure SwitchYard applications.
 artifact: org.switchyard.forge:switchyard-forge-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-switchyard.git
 tags: esb, jboss, redhat, switchyard
+---
+name: undo
+author: Jevgeni Zelenkov <jevgeni.zelenkov@gmail.com>
+website: https://github.com/forge/plugin-undo
+description: Reverts changes introduced by other forge commands.
+artifact: org.jboss.undo.forge:plugin-undo:1.0.2-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-undo.git
+tags: undo, git, jgit
 
