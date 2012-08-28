@@ -184,4 +184,12 @@ description: Reverts changes introduced by other forge commands.
 artifact: org.jboss.undo.forge:plugin-undo:1.0.2-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-undo.git
 tags: undo, git, jgit
+---
+name: hint
+author: George Gastaldi <gastaldi@redhat.com>
+website: https://github.com/forge/plugin-hint
+description: Displays hints based on the current state of the project.
+artifact: org.jboss.forge.plugin.hint:hint-plugin:1.0.0.Alpha1
+gitrepo: https://github.com/forge/plugin-hint.git
+tags: hint
 
