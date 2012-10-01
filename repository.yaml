@@ -192,4 +192,11 @@ description: Displays hints based on the current state of the project.
 artifact: org.jboss.forge.plugin.hint:hint-plugin:1.0.0.Alpha1
 gitrepo: https://github.com/forge/plugin-hint.git
 tags: hint
-
+---
+name: code-quality
+author: Paul Bakker <paul.bakker.nl@gmail.com>
+website: https://github.com/forge/plugin-code-quality
+description: Integrate Checkstyle, Findbugs etc.
+artifact: org.jboss.forge.codequality:codequality-plugin:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-code-quality.git
+tags: findbugs, checkstyle, sonar
