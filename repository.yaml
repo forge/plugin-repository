@@ -200,3 +200,11 @@ description: Integrate Checkstyle, Findbugs etc.
 artifact: org.jboss.forge.codequality:codequality-plugin:1.0.0-SNAPSHOT
 gitrepo: git://github.com/forge/plugin-code-quality.git
 tags: findbugs, checkstyle, sonar
+---
+name: service-loader
+author: Ivan St. Ivanov <ivan.st.ivanov@gmail.com>
+website: https://github.com/ivannov/plugin-serviceloader
+description: Create new ServiceLoader service registrations in META-INF/services
+artifact: org.jboss.forge.serviceloader.plugin:serviceloader-plugin:1.0.0-SNAPSHOT
+gitrepo: git://github.com/ivannov/plugin-serviceloader.git
+tags: ServiceLoader, META-INF/services, dependency injection, dependency-injection
