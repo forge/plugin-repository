@@ -208,3 +208,11 @@ description: Create new ServiceLoader service registrations in META-INF/services
 artifact: org.jboss.forge.serviceloader.plugin:serviceloader-plugin:1.0.0-SNAPSHOT
 gitrepo: git://github.com/ivannov/plugin-serviceloader.git
 tags: ServiceLoader, META-INF/services, dependency injection, dependency-injection
+---
+name: zip
+author: Adolfo Junior <adolfojunior@gmail.com>
+website: https://github.com/adolfojunior/plugin-zip
+description: List and find entries in files zip, jar, war and ear. Support for cat command in entries.
+artifact: org.jboss.forge.zip.plugin:zip-plugin::1.0.0-SNAPSHOT
+gitrepo: git://github.com/adolfojunior/plugin-zip.git
+tags: ls, zip, jar, war, ear
