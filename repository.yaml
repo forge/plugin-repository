@@ -216,3 +216,12 @@ description: List and find entries in files zip, jar, war and ear. Support for c
 artifact: org.jboss.forge.zip.plugin:zip-plugin::1.0.0-SNAPSHOT
 gitrepo: git://github.com/adolfojunior/plugin-zip.git
 tags: ls, zip, jar, war, ear
+---
+name: jacoco
+author: Tomas Remes <tomas.remes@gmail.com>
+website: https://github.com/tremes/plugin-jacoco
+description:  This plugin provides installing, running and reporting code coverage with JaCoCo.
+artifact: org.jboss.forge.jacoco:plugin-jacoco:1.0.0-SNAPSHOT
+gitrepo: https://github.com/tremes/plugin-jacoco.git
+tags: jacoco, code coverage, java, testing
+
