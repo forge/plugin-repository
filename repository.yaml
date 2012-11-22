@@ -42,7 +42,7 @@ name: richfaces
 author: Brian Leathem <bleathem@gmail.com>
 website: http://www.jboss.org/richfaces/
 description: RichFaces Plugin - Streamlines installation of the JBoss RichFaces component library for JSF
-artifact: org.jboss.seam.persistence:plugin-seam-persistence:1.0.0-SNAPSHOT
+artifact: org.richfaces.forge:richfaces-forge-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-richfaces.git
 tags: jsf, jsf2, richfaces, component library, jboss
 ---
