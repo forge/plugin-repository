@@ -224,4 +224,12 @@ description:  This plugin provides installing, running and reporting code covera
 artifact: org.jboss.forge.jacoco:plugin-jacoco:1.0.0-SNAPSHOT
 gitrepo: https://github.com/tremes/plugin-jacoco.git
 tags: jacoco, code coverage, java, testing
+---
+name: tomee
+author: Romain Manni-Bucau <rmannibucau@gmail.com>
+website: http://tomee.apache.org
+description: Apache TomEE JavaEE 6 Server
+artifact: org.jboss.forge.tomee:plugin-tomee:1.0.0-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-tomee.git
+tags: tomee, maven, server, java ee, tomcat
 
