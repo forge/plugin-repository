@@ -232,4 +232,12 @@ description: Apache TomEE JavaEE 6 Server
 artifact: org.jboss.forge.tomee:plugin-tomee:1.0.0-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-tomee.git
 tags: tomee, maven, server, java ee, tomcat
+---
+name: nosqlunit
+author: Alex Soto <asotobu@gmail.com>
+website: https://github.com/lordofthejars/nosql-unit
+description: This plugin provides a way to create tests for NoSQL databases using NoSQLUnit .
+artifact: com.lordofthejars:nosqlunit-forge-plugin:1.0.0
+gitrepo: https://github.com/lordofthejars/nosqlunit-forge-plugin
+tags: test, junit, nosql, persistence tests, nosqlunit
 
