@@ -240,4 +240,11 @@ description: This plugin provides a way to create tests for NoSQL databases usin
 artifact: com.lordofthejars:nosqlunit-forge-plugin:1.0.0
 gitrepo: https://github.com/lordofthejars/nosqlunit-forge-plugin
 tags: test, junit, nosql, persistence tests, nosqlunit
-
+---
+name: errai
+author: Pavel Slegr <pavel.slegr@gmail.com>
+website: https://github.com/errai/forge-errai
+description: This plugin provides a way to create errai project including cdi, bus, jax-rs, ui, cordova.
+artifact: org.jboss.errai.forge:errai-forge-plugin:2.0.0-SNAPSHOT
+gitrepo: https://github.com/errai/forge-errai.git
+tags: jboss,errai,gwt
