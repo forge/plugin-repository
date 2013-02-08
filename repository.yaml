@@ -248,3 +248,11 @@ description: This plugin provides a way to create errai project including cdi, b
 artifact: org.jboss.errai.forge:errai-forge-plugin:2.0.0-SNAPSHOT
 gitrepo: https://github.com/errai/forge-errai.git
 tags: jboss,errai,gwt
+---
+name: beanstest
+author: Christian Brandenstein <cbr@adorsys.de>
+website: https://github.com/ersatzcapo/forge-beanstest
+description: Enables simple junit testing with CDI beans. Also supports mockito mock generation and a test persistence setup with hsqldb.
+artifact: de.adorsys.beanstest.plugin:forge-beanstest-plugin:1.0
+gitrepo: https://github.com/ersatzcapo/forge-beanstest.git
+tags: test, junit, cdi, mockito
