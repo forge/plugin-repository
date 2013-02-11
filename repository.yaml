@@ -114,7 +114,7 @@ description: JBoss AS7 Deployment / Management
 gitrepo: https://github.com/forge/plugin-jboss-as.git
 tags: jboss, as7, deployment, server, java ee, tomcat
 ---
-name: gwt
+name: gwt-adorsys
 author: Sandro Sonntag <sso@adorsys.de>
 website: https://github.com/xandrox/forge-gwtplugin
 description: Generate full-stack GWT Project (RESTful Services with JAX-RS, Dependeny-Injection with GIN, Bean-Validation, Event-Bus), MVP generation, event wiring, model based UI-Generator and DEV-Mode running
