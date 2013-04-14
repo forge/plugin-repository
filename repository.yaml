@@ -256,3 +256,11 @@ description: Enables simple junit testing with CDI beans. Also supports mockito 
 artifact: de.adorsys.beanstest.plugin:forge-beanstest-plugin:1.0
 gitrepo: https://github.com/ersatzcapo/forge-beanstest.git
 tags: test, junit, cdi, mockito
+---
+name: vraptor
+author: Rubens Saraiva <rubenssaraiva@gmail.com>
+website: http://vraptor.caelum.com.br/en
+description: VRaptor Java MVC Framework
+artifact: org.jboss.forge:forge-scaffold-vraptor:1.0.0-SNAPSHOT
+gitrepo: https://github.com/rsaraiva/forge-vraptor-plugin.git
+tags: jboss, vraptor, java ee, jpa, jsp
