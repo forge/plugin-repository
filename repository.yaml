@@ -261,6 +261,6 @@ name: vraptor
 author: Rubens Saraiva <rubenssaraiva@gmail.com>
 website: http://vraptor.caelum.com.br/en
 description: VRaptor Java MVC Framework
-artifact: org.jboss.forge:forge-scaffold-vraptor:1.0.0-SNAPSHOT
+artifact: com.rsaraiva:vraptor-forge-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/rsaraiva/forge-vraptor-plugin.git
 tags: jboss, vraptor, java ee, jpa, jsp
