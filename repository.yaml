@@ -264,3 +264,11 @@ description: VRaptor Java MVC Framework
 artifact: com.rsaraiva:vraptor-forge-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/rsaraiva/forge-vraptor-plugin.git
 tags: jboss, vraptor, java ee, jpa, jsp
+---
+name: boottheme
+author: Florian Hirsch <post@florianhirsch.de>
+website: https://github.com/lefloh/forge-boottheme-plugin
+description: Helps building your own Bootstrap Theme
+artifact: de.adorsys.forge.plugins:forge-boottheme-plugin:1.0-SNAPSHOT
+gitrepo: https://github.com/lefloh/forge-boottheme-plugin
+tags: bootstrap, html, css
