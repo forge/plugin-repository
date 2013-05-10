@@ -270,5 +270,5 @@ author: Florian Hirsch <post@florianhirsch.de>
 website: https://github.com/lefloh/forge-boottheme-plugin
 description: Helps building your own Bootstrap Theme
 artifact: de.adorsys.forge.plugins:forge-boottheme-plugin:1.0-SNAPSHOT
-gitrepo: https://github.com/lefloh/forge-boottheme-plugin
+gitrepo: https://github.com/lefloh/forge-boottheme-plugin.git
 tags: bootstrap, html, css
