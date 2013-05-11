@@ -272,3 +272,11 @@ description: Helps building your own Bootstrap Theme
 artifact: de.adorsys.forge.plugins:forge-boottheme-plugin:1.0-SNAPSHOT
 gitrepo: https://github.com/lefloh/forge-boottheme-plugin.git
 tags: bootstrap, html, css
+---
+name: tree
+author: Florian Hirsch <post@florianhirsch.de>
+website: https://github.com/lefloh/forge-tree-plugin
+description: Simple implementation of the tree command
+artifact: de.adorsys.forge.plugins:forge-tree-plugin:1.0-SNAPSHOT
+gitrepo: https://github.com/lefloh/forge-tree-plugin.git
+tags: shell, tree
