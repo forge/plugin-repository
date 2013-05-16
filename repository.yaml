@@ -280,3 +280,10 @@ description: Simple implementation of the tree command
 artifact: de.adorsys.forge.plugins:forge-tree-plugin:1.0-SNAPSHOT
 gitrepo: https://github.com/lefloh/forge-tree-plugin.git
 tags: shell, tree
+---
+name: angularjs
+author: Vineet Reynolds <Vineet.Reynolds@gmail.com>
+website: https://github.com/forge/angularjs-scaffoldx-plugin
+description: AngularJS Scaffold-X Provider. Enables scaffolding of AngularJS applications based on JPA entities.
+gitrepo: https://github.com/forge/angularjs-scaffoldx-plugin.git
+tags: jboss, angularjs, java ee, jpa, jax rs, html, scaffold
