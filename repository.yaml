@@ -287,3 +287,11 @@ website: https://github.com/forge/angularjs-scaffoldx-plugin
 description: AngularJS Scaffold-X Provider. Enables scaffolding of AngularJS applications based on JPA entities.
 gitrepo: https://github.com/forge/angularjs-scaffoldx-plugin.git
 tags: jboss, angularjs, java ee, jpa, jax rs, html, scaffold
+---
+name: arquillian-extension
+author: Jérémie Lagarde <jer@printstacktrace.org>
+website: http://www.jboss.org/arquillian
+description: Integration Testing Framework Extension for Arquillian Plugin
+artifact: org.arquillian.forge:arquillian-extension-plugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/jerr/jbossforge-plugin-arquillian-extension.git
+tags: arquillian, jboss, testing, junit, testng, integration testing, tests, drone, graphene, selenium
