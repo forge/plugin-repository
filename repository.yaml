@@ -295,3 +295,11 @@ description: Integration Testing Framework Extension for Arquillian Plugin
 artifact: org.arquillian.forge:arquillian-extension-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/jerr/jbossforge-plugin-arquillian-extension.git
 tags: arquillian, jboss, testing, junit, testng, integration testing, tests, drone, graphene, selenium
+---
+name: picketlink
+author: George Gastaldi <gegastaldi@gmail.com>
+website: http://www.jboss.org/picketlink
+description: PicketLink is an umbrella project for security and identity management for Java Applications
+artifact: org.picketlink.forge:picketlink-plugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-picketlink.git
+tags: picketlink, security, picketbox
