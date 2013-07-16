@@ -303,3 +303,11 @@ description: PicketLink is an umbrella project for security and identity managem
 artifact: org.picketlink.forge:picketlink-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-picketlink.git
 tags: picketlink, security, picketbox
+---
+name: nazgul
+author: Lennart Jörelid <lj@jguru.se>
+website: https://bitbucket.org/lennartj/nazgul_tools/
+description: The Nazgul Framework project holds a collection of best-pracises and sensible configurations enabling you to start projects quickly and scale them considerably without having to change the development or deployment model.
+artifact: se.jguru.nazgul.forge.factory.impl.nazgul:nazgul-forge-factory-impl-nazgul:1.0.0
+gitrepo: https://github.com/lennartj/nazgul_forge.git
+tags: nazgul, components, osgi, scalability
