@@ -311,3 +311,11 @@ description: The Nazgul Framework project holds a collection of best-practices a
 artifact: se.jguru.nazgul.forge.factory.impl.nazgul:nazgul-forge-factory-impl-nazgul:1.0.1-SNAPSHOT
 gitrepo: https://github.com/lennartj/nazgul_forge.git
 tags: nazgul, components, osgi, scalability
+---
+name: netty
+author: George Gastaldi <gegastaldi@gmail.com>
+website: http://netty.io
+description: Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients
+artifact: io.netty.forge:netty-plugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/forge/plugin-netty.git
+tags: netty, http, server, nio
