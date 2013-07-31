@@ -141,7 +141,7 @@ name: openshift
 author: Pete Muir <pmuir@redhat.com>
 website: http://openshift.com
 description: Plugins for creating cloud instances, managing existing clouds, and deploying applications to the Red Hat express cloud.
-artifact: com.redhat.openshift:openshift-plugin:1.0.0-SNAPSHOT
+artifact: com.redhat.openshift:forge-openshift-plugin
 gitrepo: https://github.com/forge/plugin-openshift.git
 tags: cloud, openshift, redhat, jboss, deploy, rhc
 ---
