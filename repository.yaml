@@ -319,3 +319,11 @@ description: Netty is an asynchronous event-driven network application framework
 artifact: io.netty.forge:netty-plugin:1.0.0-SNAPSHOT
 gitrepo: https://github.com/forge/plugin-netty.git
 tags: netty, http, server, nio
+---
+name: crud
+author: Rafael M. Pestano <rmpestano@gmail.com>
+website: https://github.com/rmpestano/crud-plugin
+description: CRUD generator based on hibernate API
+artifact: com.rmpestano.forge:crud-plugin:1.0.0-SNAPSHOT
+gitrepo: https://github.com/rmpestano/crud-plugin.git
+tags: CDI, java ee, hibernate, JPA, CRUD
